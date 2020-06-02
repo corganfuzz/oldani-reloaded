@@ -1,6 +1,8 @@
 # React Oldani
 
-In the project directory, you can run:
+A github Profile search witout state management.
+
+### Part 2 should include context and hooks
 
 ### `yarn start`
 
