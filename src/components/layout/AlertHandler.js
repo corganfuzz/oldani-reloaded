@@ -1,6 +1,6 @@
 import React from "react";
 
-export const AlertHandler = ({ alert }) => {
+const AlertHandler = ({ alert }) => {
   return (
     alert !== null && (
       <div className={`alert alet-${alert.type}`}>
@@ -9,3 +9,5 @@ export const AlertHandler = ({ alert }) => {
     )
   );
 };
+
+export default AlertHandler;
