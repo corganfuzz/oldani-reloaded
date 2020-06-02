@@ -9,7 +9,7 @@ import About from "./components/pages/About";
 import User from "./components/users/User";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-class App extends Component {
+export default class App extends Component {
   state = {
     users: [],
     user: {},
@@ -124,5 +124,3 @@ class App extends Component {
     );
   }
 }
-
-export default App;
