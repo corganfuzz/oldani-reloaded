@@ -1,6 +1,6 @@
 # React Oldani
 
-A github Profile search witout state management. **Part 2 should include context and hooks**
+A github Profile search without state management. **Part 2 should include context and hooks**
 
 ### `yarn start`
 
